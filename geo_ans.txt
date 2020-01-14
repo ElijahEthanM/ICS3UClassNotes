@@ -1,0 +1,10 @@
+port moresby
+7
+italy
+seoul
+54
+50
+10
+hargeisa
+44
+7
